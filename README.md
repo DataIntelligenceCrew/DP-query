@@ -1,1 +1,1 @@
-# privatequery
+# privat equery
